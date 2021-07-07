@@ -49,7 +49,7 @@ class employee{
             cin>>checkId;		
             file= fopen("data.txt", "r");//opening of file 
             while(fscanf(file, "%s %s %s %d %d %d", &name[0], &id[0] , &designation[0], &age, &ctc, &experience)!=EOF)
-                if(strcmp(checkId,id)==0){				//if entered id and stored data id same then move forward
+                if(strcmp(checkId,id)==0){			 	//if entered id and stored data id same then move forward
                 	cout<<"\n---------------------";
                     cout<<"\nName: "<<name;				//displaying employee details
                     cout<<"\n---------------------";
@@ -254,7 +254,7 @@ int login(){ 			//login procedure
 	}
       cout << "\n\n\n\t\t\t\t\tAccess Granted!! \n\n\n";
       
-      system("PAUSE");		//pause the program with printing the message “Press any key to continue…”
+      system("PAUSE");		//pause the program with printing the message Â“Press any key to continueÂ…Â”
 		
       system("CLS");		//clearing screen
    }else{
