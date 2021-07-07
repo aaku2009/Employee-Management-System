@@ -2,11 +2,6 @@
 #include<conio.h>
 #include<windows.h>
 
-//#include<iostream>
-//#include<cstdlib>
-//#include<cstring>
-//#include<cstdio>
-//#include<unistd.h>
 using namespace std;
 
 class employee{
