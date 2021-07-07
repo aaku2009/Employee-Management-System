@@ -12,8 +12,8 @@ The choice of the programming tools is individual and particular.<br/>
     
     
 **Advantages**:<br/>
-*Save more time<br/>
-*Self-service portal<br/>
-*Ease of decision-making<br/>
-*On-time, swift payroll<br/>
-*Happy workforce
+•Save more time<br/>
+•Self-service portal<br/>
+•Ease of decision-making<br/>
+•On-time, swift payroll<br/>
+•Happy workforce
