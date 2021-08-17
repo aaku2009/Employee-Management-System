@@ -4,6 +4,7 @@ This project includes a development presentation of an information system for ma
 developed is called Employee Management System. It consists of a functionally related application program and database.
 The choice of the programming tools is individual and particular.<br/>
 <b>The Employee's Management System (EMS) is software built to handle the primary housekeeping functions of a company:</b>
+<b>
 **Aim of Employee's Management System**:
     <br/>1.Built The Employee Table.
     <br/>2.Insert New Entries.
